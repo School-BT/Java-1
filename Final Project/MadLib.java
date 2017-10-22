@@ -1,11 +1,6 @@
 /*
 MadLib
-
 Ben Burger
-CIS163AA
-12695
-BEN2160204
-
 9/15/2017
 */
 
